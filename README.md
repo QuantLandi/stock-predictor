@@ -1,2 +1,19 @@
-# stock-predictor
-The purpose of this project is to find a model which is able to profit from the market moves of some stock. For the scope of this project, we chose Apple Inc. stock (ticker: AAPL), although any model we use can be applied to any other stock financial data. Our aim is to make higher profits than some chosen benchmark with lower risk than the given benchmark. The dataset comes from Quandl, a marketplace for financial and economic data offering open-source data. We enclosed a copy of it in our GitHub repo.
+# Brief description
+The purpose of this project is to find a model which is able to profit from the
+market moves of some stock. For the scope of this project, we chose Apple
+Inc. stock (ticker: AAPL), although any model we use can be applied to any other
+stock financial data. Our aim is to make higher profits than some chosen
+benchmark with lower risk than the given benchmark.
+
+# Software and libraries
+- pandas
+- numpy
+- matplotlib
+- sklearn
+- datetime
+- ipython
+
+# Data source
+The dataset is small enough to be included in the repo. It can be found in the
+file WIKI-AAPL.csv. Its source is Quandl Financial and Economic Data
+(https://www.quandl.com/)
