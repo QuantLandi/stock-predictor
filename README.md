@@ -13,6 +13,14 @@ benchmark with lower risk than the given benchmark.
 - datetime
 - ipython
 
+# How to clone and watch the project
+```python
+git clone https://github.com/QuantLandi/stock-predictor.git
+cd stock-predictor
+your-pdf-viewer report.pdf
+jupyter notebook notebook.ipynb
+```
+
 # Data source
 The dataset is small enough to be included in the repo. It can be found in the
 file WIKI-AAPL.csv. Its source is Quandl Financial and Economic Data
